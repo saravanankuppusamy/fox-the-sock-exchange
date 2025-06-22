@@ -1,4 +1,4 @@
-name: Update and Deploy AWS Lambda Function - using Fox accouunt
+name: Update and Deploy AWS Lambda Function - using Fox account
 
 on:
   push:
